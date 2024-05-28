@@ -7,7 +7,7 @@ Folders/Files need to be created:
 6. ColorImages
 7. OutputVideo
 
-![image](https://github.com/Mamun1113/ComputerVision-ColorMovie/assets/66373332/fc0e975e-f8af-48d4-9bfa-e87821f458d0)
+![image](https://github.com/Mamun1113/ComputerVision-ColorMovie/assets/66373332/7f737886-0fe5-4136-8e48-4f5645bc2a3a)
 
 Download the model files from this links and put them in the Model folder:
 1. colorization_deploy_v2.prototxt:	https://github.com/richzhang/colorization/tree/caffe/colorization/models

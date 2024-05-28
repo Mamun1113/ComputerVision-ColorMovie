@@ -9,10 +9,13 @@ Folders/Files need to be created:
 
 ![image](https://github.com/Mamun1113/ComputerVision-ColorMovie/assets/66373332/fc0e975e-f8af-48d4-9bfa-e87821f458d0)
 
-Downloaded the model files from this links and put them in the Model folder: 
-	1. colorization_deploy_v2.prototxt:    https://github.com/richzhang/colorization/tree/caffe/colorization/models
-	2. pts_in_hull.npy:					   https://github.com/richzhang/colorization/blob/caffe/colorization/resources/pts_in_hull.npy
-	3. colorization_release_v2.caffemodel: https://www.dropbox.com/s/dx0qvhhp5hbcx7z/colorization_release_v2.caffemodel?dl=1
+Downloaded the model files from this links and put them in the Model folder:
+
+	1. colorization_deploy_v2.prototxt:	https://github.com/richzhang/colorization/tree/caffe/colorization/models
+ 
+	2. pts_in_hull.npy:			https://github.com/richzhang/colorization/blob/caffe/colorization/resources/pts_in_hull.npy
+ 
+	3. colorization_release_v2.caffemodel:	https://www.dropbox.com/s/dx0qvhhp5hbcx7z/colorization_release_v2.caffemodel?dl=1
 
 
 ![Screenshot (99)](https://github.com/Mamun1113/ComputerVision-ColorMovie/assets/66373332/75305d76-ab15-46b9-aa10-a25fc5608ff5)

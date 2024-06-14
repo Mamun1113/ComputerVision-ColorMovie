@@ -1,4 +1,4 @@
-# Video Colorization and Audio Enhancement Script
+# Video Colorization and Audio Enhancement
 
 This Python script processes a video by extracting its audio, extracting and colorizing its frames, enhancing the audio, and then combining the processed video and audio into a final output.
 
